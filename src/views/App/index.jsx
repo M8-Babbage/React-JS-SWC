@@ -1,4 +1,4 @@
 const App = () => {
-  return <span>Hello world</span>;
+  return <span>Laura Susano</span>;
 };
 export { App };
